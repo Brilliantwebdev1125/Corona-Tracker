@@ -1,118 +1,19 @@
-Contribution: 2020-10-01 20:00
+# COVID-19 Tracker
 
-Contribution: 2020-10-06 20:00
+### [Live Site](https://covid19statswebsite.netlify.com/)
 
-Contribution: 2020-10-06 20:01
+![COVID-19 Tracker](https://i.ibb.co/X87BqVY/Screenshot-2020-04-13-at-10-14-58.png)
 
-Contribution: 2020-10-08 20:00
+## Introduction
 
-Contribution: 2020-10-08 20:01
+This is a code repository for the corresponding video tutorial.
 
-Contribution: 2020-10-13 20:00
+In this video, we will create a full COVID-19 Tracker. We're going to use React, Charts.JS and Material UI.
 
-Contribution: 2020-10-16 20:00
+By the end of this video, you will have a strong understanding of React's workflow and the use of hooks.
 
-Contribution: 2020-10-18 20:00
+API used: https://covid19.mathdro.id/api
 
-Contribution: 2020-10-19 20:00
+Setup:
 
-Contribution: 2020-10-19 20:01
-
-Contribution: 2020-11-02 20:00
-
-Contribution: 2020-11-02 20:01
-
-Contribution: 2020-11-05 20:00
-
-Contribution: 2020-11-11 20:00
-
-Contribution: 2020-11-19 20:00
-
-Contribution: 2020-11-22 20:00
-
-Contribution: 2020-11-22 20:01
-
-Contribution: 2020-11-25 20:00
-
-Contribution: 2020-11-26 20:00
-
-Contribution: 2020-12-01 20:00
-
-Contribution: 2020-12-03 20:00
-
-Contribution: 2020-12-17 20:00
-
-Contribution: 2020-12-19 20:00
-
-Contribution: 2020-12-19 20:01
-
-Contribution: 2020-12-20 20:00
-
-Contribution: 2020-12-20 20:01
-
-Contribution: 2020-12-30 20:00
-
-Contribution: 2020-12-30 20:01
-
-Contribution: 2020-12-31 20:00
-
-Contribution: 2021-01-08 20:00
-
-Contribution: 2021-01-11 20:00
-
-Contribution: 2021-01-11 20:01
-
-Contribution: 2021-01-12 20:00
-
-Contribution: 2021-01-12 20:01
-
-Contribution: 2021-01-13 20:00
-
-Contribution: 2021-01-16 20:00
-
-Contribution: 2021-01-16 20:01
-
-Contribution: 2021-01-24 20:00
-
-Contribution: 2021-01-28 20:00
-
-Contribution: 2021-02-05 20:00
-
-Contribution: 2021-02-05 20:01
-
-Contribution: 2021-02-08 20:00
-
-Contribution: 2021-02-16 20:00
-
-Contribution: 2021-02-25 20:00
-
-Contribution: 2021-02-25 20:01
-
-Contribution: 2021-03-11 20:00
-
-Contribution: 2021-03-17 20:00
-
-Contribution: 2021-03-17 20:01
-
-Contribution: 2021-03-22 20:00
-
-Contribution: 2021-03-29 20:00
-
-Contribution: 2021-03-30 20:00
-
-Contribution: 2021-03-30 20:01
-
-Contribution: 2021-03-31 20:00
-
-Contribution: 2021-04-09 20:00
-
-Contribution: 2021-04-09 20:01
-
-Contribution: 2021-04-11 20:00
-
-Contribution: 2021-04-13 20:00
-
-Contribution: 2021-04-13 20:01
-
-Contribution: 2021-04-15 20:00
-
+- run `npm i && npm start`
